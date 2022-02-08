@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vizsga/static/css/main.681f259b.css",
+    "main.js": "/vizsga/static/js/main.22d37f8f.js",
+    "static/js/787.76abd360.chunk.js": "/vizsga/static/js/787.76abd360.chunk.js",
+    "index.html": "/vizsga/index.html",
+    "main.681f259b.css.map": "/vizsga/static/css/main.681f259b.css.map",
+    "main.22d37f8f.js.map": "/vizsga/static/js/main.22d37f8f.js.map",
+    "787.76abd360.chunk.js.map": "/vizsga/static/js/787.76abd360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681f259b.css",
+    "static/js/main.22d37f8f.js"
+  ]
+}
